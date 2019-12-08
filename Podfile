@@ -8,5 +8,6 @@ target 'singleViewIosApp' do
   # Pods for singleViewIosApp
 
   pod 'Alamofire', '~> 4.0.0'
+  pod 'Firebase/Analytics'
 
 end

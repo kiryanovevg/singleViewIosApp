@@ -12,6 +12,7 @@
 		7AF4D223239D6F460089357F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7AF4D221239D6F460089357F /* Main.storyboard */; };
 		7AF4D225239D6F490089357F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7AF4D224239D6F490089357F /* Assets.xcassets */; };
 		7AF4D228239D6F490089357F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7AF4D226239D6F490089357F /* LaunchScreen.storyboard */; };
+		AE0C414072FE9D0F580B4544 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = AE0C4AA343EE97D40E5C834A /* GoogleService-Info.plist */; };
 		EA80DA9AE3034800188DC602 /* Pods_singleViewIosApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 682DB4EC609DEFB618A849A8 /* Pods_singleViewIosApp.framework */; };
 /* End PBXBuildFile section */
 
@@ -26,6 +27,7 @@
 		7AF4D229239D6F490089357F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A1A92F990A4E1AECFC6BB169 /* Pods-singleViewIosApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-singleViewIosApp.debug.xcconfig"; path = "Target Support Files/Pods-singleViewIosApp/Pods-singleViewIosApp.debug.xcconfig"; sourceTree = "<group>"; };
 		ADA98A72EAFC9FC7DE748A55 /* Pods-singleViewIosApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-singleViewIosApp.release.xcconfig"; path = "Target Support Files/Pods-singleViewIosApp/Pods-singleViewIosApp.release.xcconfig"; sourceTree = "<group>"; };
+		AE0C4AA343EE97D40E5C834A /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				7AF4D224239D6F490089357F /* Assets.xcassets */,
 				7AF4D226239D6F490089357F /* LaunchScreen.storyboard */,
 				7AF4D229239D6F490089357F /* Info.plist */,
+				AE0C4AA343EE97D40E5C834A /* GoogleService-Info.plist */,
 			);
 			path = singleViewIosApp;
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 				7AF4D228239D6F490089357F /* LaunchScreen.storyboard in Resources */,
 				7AF4D225239D6F490089357F /* Assets.xcassets in Resources */,
 				7AF4D223239D6F460089357F /* Main.storyboard in Resources */,
+				AE0C414072FE9D0F580B4544 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
